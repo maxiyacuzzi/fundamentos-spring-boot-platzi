@@ -25,3 +25,4 @@ public class FundamentosApplication implements CommandLineRunner {
 		componentDependency.saludar();
 	}
 }
+
