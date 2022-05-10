@@ -7,6 +7,6 @@ public class ComponentImplement implements ComponentDependency{
 
     @Override
     public void saludar() {
-        System.out.println("hola mundo");
+        System.out.println("hola mundo desde mi componente");
     }
 }
